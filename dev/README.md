@@ -62,12 +62,18 @@
 ## 🚀 Acesso aos serviços
 
 ```
+# Credênciais de acesso
+$ Login: admin@zrp.com
+$ Senha: 12345678
 
-No browser acesso front-end: http://localhost:3000/
+# Acesso front-end 
+$ http://localhost:3000/
 
-Para acessar o back-end: http://localhost:3001/
+# Acesso front-end
+$ http://localhost:3001/
 
-Para acessar o socket-io: http://localhost:3002/
+# Acesso socket-io
+$ http://localhost:3002/
 
 ```
 
