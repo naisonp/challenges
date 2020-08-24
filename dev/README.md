@@ -64,7 +64,7 @@
 ```
 # Credênciais de acesso
 $ Login: admin@zrp.com
-$ Senha: 12345678
+$ Senha: 123456789
 
 # Acesso front-end 
 $ http://localhost:3000/
